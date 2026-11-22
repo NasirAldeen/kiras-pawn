@@ -1,0 +1,19 @@
+# Personal documents and generated research
+*.docx
+*.pdf
+*.lnk
+Research Results/
+local_settings.json
+
+# Downloaded offline grammar engine and local runtime files
+vendor/
+*.zip
+*.log
+__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
